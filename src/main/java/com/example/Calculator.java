@@ -5,7 +5,7 @@ public class Calculator {
         int a = 10;
         int b = 20;
 
-        int result = a + b;
+        int result = a + b + 10;
 
         System.out.println("Result = " + result);
     }
